@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@dev_fab250-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fab_dev250)
 [![Gmail Badge](https://img.shields.io/badge/-irafashafabrice250@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:irafashafabrice250@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" />
+
 
 ## 💻 Tech Enthusiast | 🚀 Student Developer | 🤖 Robotics Explorer
 
@@ -29,6 +29,7 @@ I'm a passionate young developer navigating the exciting world of code. Currentl
 - Contributing to open-source projects that make a difference
 
 ![Coding Skills](https://github-readme-stats.vercel.app/api/top-langs?username=fabriceIR250&show_icons=true&locale=en&layout=compact&theme=radical)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" />
 
 ### 💡 Philosophy
 
